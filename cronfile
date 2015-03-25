@@ -1,0 +1,2 @@
+* * * * * echo "cron is working at `date`" | logger
+
