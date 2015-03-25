@@ -1,2 +1,2 @@
-* * * * * echo "cron is working at `date`" | logger
+* * * * * root echo "cron is working at `date`" | logger
 
